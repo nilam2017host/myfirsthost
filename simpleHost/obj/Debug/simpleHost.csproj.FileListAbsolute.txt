@@ -4,3 +4,9 @@ D:\Nilam.NET\simpleHost\simpleHost\bin\simpleHost.pdb
 D:\Nilam.NET\simpleHost\simpleHost\obj\Debug\simpleHost.csprojResolveAssemblyReference.cache
 D:\Nilam.NET\simpleHost\simpleHost\obj\Debug\simpleHost.dll
 D:\Nilam.NET\simpleHost\simpleHost\obj\Debug\simpleHost.pdb
+D:\Nilam.NET\myfirsthost\simpleHost\bin\simpleHost.dll.config
+D:\Nilam.NET\myfirsthost\simpleHost\bin\simpleHost.dll
+D:\Nilam.NET\myfirsthost\simpleHost\bin\simpleHost.pdb
+D:\Nilam.NET\myfirsthost\simpleHost\obj\Debug\simpleHost.csprojResolveAssemblyReference.cache
+D:\Nilam.NET\myfirsthost\simpleHost\obj\Debug\simpleHost.dll
+D:\Nilam.NET\myfirsthost\simpleHost\obj\Debug\simpleHost.pdb
